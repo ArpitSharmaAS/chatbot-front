@@ -1,0 +1,12 @@
+{
+    "name":"jarvish",
+    "version":"1.0",
+    "description":"extension",
+    "manifest_version": 3,
+    "chrome_url_overrides":{
+        "newtab":"index.html"
+    },
+    "icon":{
+        "2": "pngwing.com.ico"
+    }
+}
